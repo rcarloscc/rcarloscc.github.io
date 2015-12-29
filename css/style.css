@@ -219,7 +219,7 @@ div#navbar li a {
     width: 288px;
     float: left;
     position: absolute;
-    background: url(../images/logo_small.png);
+    
     z-index: 99; }
 
 .m_w {
